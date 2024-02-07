@@ -20,6 +20,7 @@ Capítulos principais:
 
 - [**Fundação Bradesco - Escola Virtual**](#Fundação-Bradesco---Escola-Virtual)
 - [**SEBRAE Cursos**](#Sebrae-Cursos)
+- [**Escola Virtual Gov**](#Escola-Virtual-Gov)
 
 ## Capítulos
 
@@ -46,3 +47,24 @@ Capítulos principais:
 <p>
 &nbsp;&nbsp;🔸 <a href="https://sebrae.com.br/sites/PortalSebrae/cursosonline/gestao-de-pessoas,eda0b8a6a28bb610VgnVCM1000004c00210aRCRD"><b>Gestão de pessoas</b></a> - A gestão de pessoas é uma <b>estratégia</b> eficaz e possível de ser implantada em qualquer empresa. Neste curso, você terá condições de desenvolver uma série de competências para melhorar os resultados do seu negócio. Ao concluir a capacitação, você não só terá compreendido o que é a <b>gestão de pessoas</b> como também saberá identificar ferramentas e estratégias que permitem gerenciar com eficácia os processos de atrair, desenvolver e reter <b>profissionais talentosos</b> em sua equipe de trabalho.<br>
 </p>
+
+#### Escola Virtual Gov
+
+##### :black_small_square: Desenvolvimento Pessoal
+
+<p>
+&nbsp;&nbsp;🔸 <a href="https://www.escolavirtual.gov.br/curso/477"><b>Português - Interpretação de Texto e Emprego de Regras Gramaticais</b></a> - Este curso traz, de forma simples, direta e sem complicações, as principais regras ortográficas da nossa língua e dicas importantes sobre interpretação de texto. Assim, você poderá se comunicar tanto por escrito quanto oralmente de forma objetiva, utilizando linguagem acessível, inteligível e adequada a cada contexto.<br>
+&nbsp;&nbsp;🔸 <a href="https://www.escolavirtual.gov.br/curso/444"><b>Estratégias de produtividade: clareza, propósito e priorização de tarefas</b></a> - Vamos desvendar o caminho para uma vida mais produtiva juntos? Descubra como tomar decisões assertivas e priorizar tarefas. Otimize seu tempo com uma organização efetiva. Aprenda a cultivar foco, concentração e eficiência e desvende seus valores para atingir propósitos e vencer a procrastinação. Pronto para essa transformação?<br>
+&nbsp;&nbsp;🔸 <a href="https://www.escolavirtual.gov.br/curso/468"><b>Gestão de Tempo e Produtividade</b></a> - Você sabe para onde está indo? Como você pode fazer para escolher o melhor caminho? Neste curso, você empreenderá uma jornada de autoconhecimento e conhecerá processos e métodos produtivos para o aperfeiçoamento de suas competências individuais e coletivas relacionadas ao aumento da produtividade e à eficiência no gerenciamento do tempo.
+</p>
+
+#### :black_small_square: Governo e Transformação Digital
+
+<p>
+&nbsp;&nbsp;🔸 <a href="https://www.escolavirtual.gov.br/curso/812"><b>Soft Skills na sua Transformação Digital</b></a> - Hoje, o desenvolvimento do comportamento humano é muito importante para as pessoas. Saber lidar com os relacionamentos interpessoais faz parte desse desenvolvimento. Você conhece a importância da comunicação para a Administração? Sabia que existem ferramentas que você pode utilizar para enfrentar os seus desafios? Inscreva-se e venha conhecer aspectos como desenvolvimento pessoal, liderança, conduta profissional e método de resolução de problemas de uma forma transformadora. Vamos lá?<br>
+&nbsp;&nbsp;🔸 <a href="https://www.escolavirtual.gov.br/curso/529"><b>Como implementar a LGPD: bases, mecanismos e processos</b></a> - Seja para implementar um serviço simples ao cidadão ou um que utiliza dados mais sensíveis, é essencial ter em mente a necessidade de criar uma política de segurança e toda a estrutura que acompanha esse processo, para que o passo lógico seja apenas ajustá-lo à LGPD. Para aprender as bases, mecanismos e outros processos relacionados à lei, faça já sua inscrição neste curso e venha ser EV.G!
+</p>
+
+---
+
+<p align="center">Made with ❤ and ☕ by bugb0x</p>
