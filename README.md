@@ -19,7 +19,7 @@ O URL marcado como **\*** está temporariamente indisponível ou ele expirou per
 Capítulos principais:
 
 - [**Fundação Bradesco - Escola Virtual**](#Fundação+Bradesco+-+Escola+Virtual)
-- [**SEBRAE Cursos**](#Sebrae+Cursos)
+- [**SEBRAE Cursos**](#Sebrae-Cursos)
 
 ## Capítulos
 
