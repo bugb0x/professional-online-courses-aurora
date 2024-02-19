@@ -1,10 +1,10 @@
-<p align="center">"<i>O conhecimento é poderoso, tome cuidado ao usá-lo!</i>"</p>
+
 
 <h4 align="center">Uma coleção de listas, manuais, blogs, ferramentas e muito mais.</h4>
 <br>
 
 <p align="center">
-  <a href="LICENSE.md">
+  <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
   </a>
 </p>
@@ -15,13 +15,15 @@
 
 <br>
 
-****
+![](https://i.imgur.com/waxVImv.png)
 
-## :notebook_with_decorative_cover:&nbsp;O que é?
+## O que é?
 
-Este repositório é uma coleção de diversos materiais e ferramentas. Ele contém muitas informações úteis reunidas em uma só peça. É uma fonte inestimável de conhecimento para mim.
+Este repositório é uma coleção de diversos materiais e ferramentas. Ele contém muitas informações úteis reunidas em uma só peça.
 
-## :restroom:&nbsp;Para quem?
+Explore uma variedade de cursos online abragendo desde programação e design até marketing e idiomas. Aprenda no seu próprio ritmo e aprimore suas habilidades para impulsionar sua carreira.
+
+## Para quem?
 
 Para todos, na verdade. Aqui todos podem encontrar seus gostos favoritos.
 
@@ -31,7 +33,7 @@ O URL marcado como **\*** está temporariamente indisponível ou ele expirou per
 + Este repositório não foi feito para conter tudo, mas apenas coisas de boa qualidade.
 ```
 
-## :seedling: Índice
+## Índice
 
 Capítulos principais:
 
